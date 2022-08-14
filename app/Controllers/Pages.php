@@ -4,15 +4,9 @@ namespace App\Controllers;
 
 class Pages extends BaseController
 {
-    public function view()
-    {
-        $page = "home";
-
-        $data['title'] = "New Post";
-
-        if(!file_exists(APPPATH.'views/pages/'.$page.'.php'));
-
-        $this->load->view('pages/'.$page);
+    // For patient Page 
+    public function login(){
+        echo view('pages/login');
     }
 
     // For home page
@@ -35,6 +29,7 @@ class Pages extends BaseController
         echo view('pages/patient');
         echo view('template/footer'); 
     }
+
 
     // For patient Page 
     public function record(){

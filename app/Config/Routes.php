@@ -45,6 +45,7 @@ $routes->get('/', 'Pages::home');
 $routes->get('/patient', 'Pages::patient');
 $routes->get('/record', 'Pages::record');
 $routes->get('/dashboard', 'Pages::dashboard');
+$routes->get('/login', 'Pages::login');
 $routes->get('/test', 'Pages::test');
 
 /*

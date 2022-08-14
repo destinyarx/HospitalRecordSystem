@@ -23,6 +23,13 @@ td,th {
     padding: 8px;
 }
 
+/* for front page */
+
+#front-image{
+    width: 700px;
+    height: 550px;
+}
+
 
 
 
