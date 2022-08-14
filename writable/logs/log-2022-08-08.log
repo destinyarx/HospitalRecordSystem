@@ -1,0 +1,22 @@
+ERROR - 2022-08-08 09:15:41 --> Error connecting to the database: No connection could be made because the target machine actively refused it
+CRITICAL - 2022-08-08 09:15:41 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\PatientModel.php(15): CodeIgniter\Database\BaseConnection->query('SELECT * from record')
+ 3 APPPATH\Controllers\Pages.php(43): App\Models\UserModel->getPatient()
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-08-08 09:15:45 --> Error connecting to the database: No connection could be made because the target machine actively refused it
+CRITICAL - 2022-08-08 09:15:45 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\PatientModel.php(15): CodeIgniter\Database\BaseConnection->query('SELECT * from record')
+ 3 APPPATH\Controllers\Pages.php(43): App\Models\UserModel->getPatient()
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,28 @@
+CRITICAL - 2022-07-31 10:19:28 --> Undefined property: App\Controllers\Pages::$load
+in APPPATH\Controllers\Pages.php on line 34.
+ 1 APPPATH\Controllers\Pages.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Pages::$load', 'APPPATH\\Controllers\\Pages.php', 34)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->patient()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-31 10:21:44 --> Undefined property: App\Controllers\Pages::$load
+in APPPATH\Controllers\Pages.php on line 34.
+ 1 APPPATH\Controllers\Pages.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Pages::$load', 'APPPATH\\Controllers\\Pages.php', 34)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->patient()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-31 10:22:28 --> Undefined property: App\Controllers\Pages::$load
+in APPPATH\Controllers\Pages.php on line 34.
+ 1 APPPATH\Controllers\Pages.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Pages::$load', 'APPPATH\\Controllers\\Pages.php', 34)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->patient()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-31 10:22:33 --> Undefined property: App\Controllers\Pages::$load
+in APPPATH\Controllers\Pages.php on line 21.
+ 1 APPPATH\Controllers\Pages.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Pages::$load', 'APPPATH\\Controllers\\Pages.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->home()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()

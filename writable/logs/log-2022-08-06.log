@@ -1,0 +1,668 @@
+CRITICAL - 2022-08-06 03:47:24 --> Undefined property: App\Controllers\Pages::$PatientModel
+in APPPATH\Controllers\Pages.php on line 43.
+ 1 APPPATH\Controllers\Pages.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Pages::$PatientModel', 'APPPATH\\Controllers\\Pages.php', 43)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 03:47:27 --> Undefined property: App\Controllers\Pages::$PatientModel
+in APPPATH\Controllers\Pages.php on line 43.
+ 1 APPPATH\Controllers\Pages.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Pages::$PatientModel', 'APPPATH\\Controllers\\Pages.php', 43)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 03:47:28 --> Undefined property: App\Controllers\Pages::$PatientModel
+in APPPATH\Controllers\Pages.php on line 43.
+ 1 APPPATH\Controllers\Pages.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Pages::$PatientModel', 'APPPATH\\Controllers\\Pages.php', 43)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 03:47:28 --> Undefined property: App\Controllers\Pages::$PatientModel
+in APPPATH\Controllers\Pages.php on line 43.
+ 1 APPPATH\Controllers\Pages.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Pages::$PatientModel', 'APPPATH\\Controllers\\Pages.php', 43)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 03:47:29 --> Undefined property: App\Controllers\Pages::$PatientModel
+in APPPATH\Controllers\Pages.php on line 43.
+ 1 APPPATH\Controllers\Pages.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Pages::$PatientModel', 'APPPATH\\Controllers\\Pages.php', 43)
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 04:01:41 --> Undefined variable $record
+in APPPATH\Views\pages\record.php on line 3.
+ 1 APPPATH\Views\pages\record.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $record', 'APPPATH\\Views\\pages\\record.php', 3)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\record.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/record', [], true)
+ 5 APPPATH\Controllers\Pages.php(49): view('pages/record')
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 07:56:07 --> Undefined variable $name
+in APPPATH\Views\pages\record.php on line 3.
+ 1 APPPATH\Views\pages\record.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $name', 'APPPATH\\Views\\pages\\record.php', 3)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\record.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/record', [], true)
+ 5 APPPATH\Controllers\Pages.php(49): view('pages/record')
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 07:56:20 --> Undefined variable $name
+in APPPATH\Views\pages\record.php on line 3.
+ 1 APPPATH\Views\pages\record.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $name', 'APPPATH\\Views\\pages\\record.php', 3)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\record.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/record', [], true)
+ 5 APPPATH\Controllers\Pages.php(49): view('pages/record')
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 08:17:29 --> Undefined variable $name
+in APPPATH\Views\pages\record.php on line 3.
+ 1 APPPATH\Views\pages\record.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $name', 'APPPATH\\Views\\pages\\record.php', 3)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\record.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/record', [], true)
+ 5 APPPATH\Controllers\Pages.php(49): view('pages/record')
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 08:18:14 --> Undefined variable $name
+in APPPATH\Views\pages\record.php on line 3.
+ 1 APPPATH\Views\pages\record.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $name', 'APPPATH\\Views\\pages\\record.php', 3)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\record.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/record', [], true)
+ 5 APPPATH\Controllers\Pages.php(49): view('pages/record')
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 08:18:37 --> Undefined variable $name
+in APPPATH\Views\pages\record.php on line 3.
+ 1 APPPATH\Views\pages\record.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $name', 'APPPATH\\Views\\pages\\record.php', 3)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\record.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/record', [], true)
+ 5 APPPATH\Controllers\Pages.php(49): view('pages/record')
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 08:21:07 --> Undefined variable $record
+in APPPATH\Views\pages\record.php on line 3.
+ 1 APPPATH\Views\pages\record.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $record', 'APPPATH\\Views\\pages\\record.php', 3)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\record.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/record', [], true)
+ 5 APPPATH\Controllers\Pages.php(50): view('pages/record')
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 08:21:55 --> Undefined variable $record
+in APPPATH\Views\pages\record.php on line 3.
+ 1 APPPATH\Views\pages\record.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $record', 'APPPATH\\Views\\pages\\record.php', 3)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\record.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/record', [], true)
+ 5 APPPATH\Controllers\Pages.php(50): view('pages/record')
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 09:07:48 --> Array to string conversion
+in APPPATH\Views\pages\record.php on line 3.
+ 1 APPPATH\Views\pages\record.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Views\\pages\\record.php', 3)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\record.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/record', [], true)
+ 5 APPPATH\Controllers\Pages.php(48): view('pages/record', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 09:10:49 --> Object of class CodeIgniter\Database\MySQLi\Connection could not be converted to string
+in APPPATH\Models\PatientModel.php on line 16.
+ 1 APPPATH\Controllers\Pages.php(44): App\Models\UserModel->getPatient()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 09:10:50 --> Object of class CodeIgniter\Database\MySQLi\Connection could not be converted to string
+in APPPATH\Models\PatientModel.php on line 16.
+ 1 APPPATH\Controllers\Pages.php(44): App\Models\UserModel->getPatient()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 09:12:05 --> Object of class CodeIgniter\Database\MySQLi\Connection could not be converted to string
+in APPPATH\Models\PatientModel.php on line 16.
+ 1 APPPATH\Controllers\Pages.php(44): App\Models\UserModel->getPatient()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 09:12:07 --> Object of class CodeIgniter\Database\MySQLi\Connection could not be converted to string
+in APPPATH\Models\PatientModel.php on line 16.
+ 1 APPPATH\Controllers\Pages.php(44): App\Models\UserModel->getPatient()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 09:12:07 --> Object of class CodeIgniter\Database\MySQLi\Connection could not be converted to string
+in APPPATH\Models\PatientModel.php on line 16.
+ 1 APPPATH\Controllers\Pages.php(44): App\Models\UserModel->getPatient()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 09:12:07 --> Object of class CodeIgniter\Database\MySQLi\Connection could not be converted to string
+in APPPATH\Models\PatientModel.php on line 16.
+ 1 APPPATH\Controllers\Pages.php(44): App\Models\UserModel->getPatient()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 09:12:07 --> Object of class CodeIgniter\Database\MySQLi\Connection could not be converted to string
+in APPPATH\Models\PatientModel.php on line 16.
+ 1 APPPATH\Controllers\Pages.php(44): App\Models\UserModel->getPatient()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 09:12:37 --> Object of class CodeIgniter\Database\MySQLi\Connection could not be converted to string
+in APPPATH\Models\PatientModel.php on line 16.
+ 1 APPPATH\Controllers\Pages.php(44): App\Models\UserModel->getPatient()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 09:27:37 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::result_array()
+in APPPATH\Models\PatientModel.php on line 18.
+ 1 APPPATH\Controllers\Pages.php(44): App\Models\UserModel->getPatient()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 09:28:09 --> Array to string conversion
+in APPPATH\Views\pages\record.php on line 3.
+ 1 APPPATH\Views\pages\record.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Views\\pages\\record.php', 3)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\record.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/record', [], true)
+ 5 APPPATH\Controllers\Pages.php(48): view('pages/record', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 09:36:15 --> Undefined array key "date_time"
+in APPPATH\Views\pages\record.php on line 3.
+ 1 APPPATH\Views\pages\record.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "date_time"', 'APPPATH\\Views\\pages\\record.php', 3)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\record.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/record', [], true)
+ 5 APPPATH\Controllers\Pages.php(48): view('pages/record', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 09:36:50 --> Undefined array key "date_time"
+in APPPATH\Views\pages\record.php on line 3.
+ 1 APPPATH\Views\pages\record.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "date_time"', 'APPPATH\\Views\\pages\\record.php', 3)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\record.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/record', [], true)
+ 5 APPPATH\Controllers\Pages.php(48): view('pages/record', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 09:36:51 --> Undefined array key "date_time"
+in APPPATH\Views\pages\record.php on line 3.
+ 1 APPPATH\Views\pages\record.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "date_time"', 'APPPATH\\Views\\pages\\record.php', 3)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\record.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/record', [], true)
+ 5 APPPATH\Controllers\Pages.php(48): view('pages/record', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 09:37:23 --> Array to string conversion
+in APPPATH\Views\pages\record.php on line 3.
+ 1 APPPATH\Views\pages\record.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Views\\pages\\record.php', 3)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\record.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/record', [], true)
+ 5 APPPATH\Controllers\Pages.php(48): view('pages/record', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 09:59:28 --> Array to string conversion
+in APPPATH\Views\pages\record.php on line 3.
+ 1 APPPATH\Views\pages\record.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Views\\pages\\record.php', 3)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\record.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/record', [], true)
+ 5 APPPATH\Controllers\Pages.php(48): view('pages/record', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 10:12:34 --> Undefined variable $record
+in APPPATH\Views\pages\record.php on line 6.
+ 1 APPPATH\Views\pages\record.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $record', 'APPPATH\\Views\\pages\\record.php', 6)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\record.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/record', [], true)
+ 5 APPPATH\Controllers\Pages.php(48): view('pages/record', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 10:14:40 --> Undefined variable $record
+in APPPATH\Views\pages\record.php on line 5.
+ 1 APPPATH\Views\pages\record.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $record', 'APPPATH\\Views\\pages\\record.php', 5)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\record.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/record', [], true)
+ 5 APPPATH\Controllers\Pages.php(48): view('pages/record', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 10:17:45 --> Undefined variable $record
+in APPPATH\Views\pages\record.php on line 5.
+ 1 APPPATH\Views\pages\record.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $record', 'APPPATH\\Views\\pages\\record.php', 5)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\record.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/record', [], true)
+ 5 APPPATH\Controllers\Pages.php(48): view('pages/record', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 10:17:47 --> Undefined variable $record
+in APPPATH\Views\pages\record.php on line 5.
+ 1 APPPATH\Views\pages\record.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $record', 'APPPATH\\Views\\pages\\record.php', 5)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\record.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/record', [], true)
+ 5 APPPATH\Controllers\Pages.php(48): view('pages/record', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 10:17:48 --> Undefined variable $record
+in APPPATH\Views\pages\record.php on line 5.
+ 1 APPPATH\Views\pages\record.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $record', 'APPPATH\\Views\\pages\\record.php', 5)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\record.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/record', [], true)
+ 5 APPPATH\Controllers\Pages.php(48): view('pages/record', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 10:17:49 --> Undefined variable $record
+in APPPATH\Views\pages\record.php on line 5.
+ 1 APPPATH\Views\pages\record.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $record', 'APPPATH\\Views\\pages\\record.php', 5)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\record.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/record', [], true)
+ 5 APPPATH\Controllers\Pages.php(48): view('pages/record', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 10:17:52 --> Undefined variable $record
+in APPPATH\Views\pages\record.php on line 5.
+ 1 APPPATH\Views\pages\record.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $record', 'APPPATH\\Views\\pages\\record.php', 5)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\record.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/record', [], true)
+ 5 APPPATH\Controllers\Pages.php(48): view('pages/record', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 10:18:40 --> Undefined variable $record
+in APPPATH\Views\pages\record.php on line 5.
+ 1 APPPATH\Views\pages\record.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $record', 'APPPATH\\Views\\pages\\record.php', 5)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\record.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/record', [], true)
+ 5 APPPATH\Controllers\Pages.php(48): view('pages/record', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 10:23:10 --> Undefined variable $record
+in APPPATH\Views\pages\record.php on line 4.
+ 1 APPPATH\Views\pages\record.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $record', 'APPPATH\\Views\\pages\\record.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\record.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/record', [], true)
+ 5 APPPATH\Controllers\Pages.php(48): view('pages/record', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 10:23:22 --> Undefined variable $record
+in APPPATH\Views\pages\record.php on line 4.
+ 1 APPPATH\Views\pages\record.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $record', 'APPPATH\\Views\\pages\\record.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\record.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/record', [], true)
+ 5 APPPATH\Controllers\Pages.php(48): view('pages/record', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 10:23:34 --> Undefined variable $record
+in APPPATH\Views\pages\record.php on line 4.
+ 1 APPPATH\Views\pages\record.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $record', 'APPPATH\\Views\\pages\\record.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\record.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/record', [], true)
+ 5 APPPATH\Controllers\Pages.php(48): view('pages/record', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 10:32:14 --> Undefined array key "id"
+in APPPATH\Views\pages\record.php on line 5.
+ 1 APPPATH\Views\pages\record.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'APPPATH\\Views\\pages\\record.php', 5)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\record.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/record', [], true)
+ 5 APPPATH\Controllers\Pages.php(48): view('pages/record', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 11:05:04 --> Invalid file: template/header.html
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/header.html')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('template/header.html', [], true)
+ 3 APPPATH\Controllers\Pages.php(47): view('template/header.html')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 11:06:35 --> Call to undefined function link_tag()
+in APPPATH\Views\template\header.php on line 13.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('template/header', [], true)
+ 4 APPPATH\Controllers\Pages.php(47): view('template/header')
+ 5 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 6 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 11:06:37 --> Call to undefined function link_tag()
+in APPPATH\Views\template\header.php on line 13.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('template/header', [], true)
+ 4 APPPATH\Controllers\Pages.php(47): view('template/header')
+ 5 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 6 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 11:06:50 --> Call to undefined function link_tag()
+in APPPATH\Views\template\header.php on line 13.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('template/header', [], true)
+ 4 APPPATH\Controllers\Pages.php(47): view('template/header')
+ 5 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 6 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 11:06:51 --> Call to undefined function link_tag()
+in APPPATH\Views\template\header.php on line 13.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('template/header', [], true)
+ 4 APPPATH\Controllers\Pages.php(47): view('template/header')
+ 5 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 6 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 11:06:53 --> Call to undefined function link_tag()
+in APPPATH\Views\template\header.php on line 13.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('template/header', [], true)
+ 4 APPPATH\Controllers\Pages.php(20): view('template/header')
+ 5 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->home()
+ 6 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 11:06:58 --> Call to undefined function link_tag()
+in APPPATH\Views\template\header.php on line 13.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('template/header', [], true)
+ 4 APPPATH\Controllers\Pages.php(47): view('template/header')
+ 5 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 6 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 11:10:29 --> Call to undefined function link_tag()
+in APPPATH\Views\template\header.php on line 13.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('template/header', [], true)
+ 4 APPPATH\Controllers\Pages.php(20): view('template/header')
+ 5 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->home()
+ 6 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 11:12:44 --> Invalid file: template/header.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/header.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('template/header', [], true)
+ 3 APPPATH\Controllers\Pages.php(20): view('template/header')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->home()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-08-06 11:12:52 --> Error connecting to the database: No connection could be made because the target machine actively refused it
+CRITICAL - 2022-08-06 11:12:52 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\PatientModel.php(15): CodeIgniter\Database\BaseConnection->query('SELECT * from record')
+ 3 APPPATH\Controllers\Pages.php(43): App\Models\UserModel->getPatient()
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-08-06 11:13:55 --> Error connecting to the database: No connection could be made because the target machine actively refused it
+CRITICAL - 2022-08-06 11:13:55 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\PatientModel.php(15): CodeIgniter\Database\BaseConnection->query('SELECT * from record')
+ 3 APPPATH\Controllers\Pages.php(43): App\Models\UserModel->getPatient()
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-08-06 11:13:57 --> Error connecting to the database: No connection could be made because the target machine actively refused it
+CRITICAL - 2022-08-06 11:13:57 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\PatientModel.php(15): CodeIgniter\Database\BaseConnection->query('SELECT * from record')
+ 3 APPPATH\Controllers\Pages.php(43): App\Models\UserModel->getPatient()
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-08-06 11:14:00 --> Error connecting to the database: No connection could be made because the target machine actively refused it
+CRITICAL - 2022-08-06 11:14:00 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\PatientModel.php(15): CodeIgniter\Database\BaseConnection->query('SELECT * from record')
+ 3 APPPATH\Controllers\Pages.php(43): App\Models\UserModel->getPatient()
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-08-06 11:14:15 --> Error connecting to the database: No connection could be made because the target machine actively refused it
+CRITICAL - 2022-08-06 11:14:15 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\PatientModel.php(15): CodeIgniter\Database\BaseConnection->query('SELECT * from record')
+ 3 APPPATH\Controllers\Pages.php(43): App\Models\UserModel->getPatient()
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-08-06 11:14:47 --> Error connecting to the database: No connection could be made because the target machine actively refused it
+CRITICAL - 2022-08-06 11:14:47 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\PatientModel.php(15): CodeIgniter\Database\BaseConnection->query('SELECT * from record')
+ 3 APPPATH\Controllers\Pages.php(43): App\Models\UserModel->getPatient()
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-08-06 11:15:24 --> Error connecting to the database: No connection could be made because the target machine actively refused it
+CRITICAL - 2022-08-06 11:15:24 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\PatientModel.php(15): CodeIgniter\Database\BaseConnection->query('SELECT * from record')
+ 3 APPPATH\Controllers\Pages.php(43): App\Models\UserModel->getPatient()
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 11:15:58 --> Invalid file: templates/header.html
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/header.html')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('templates/header.html', [], true)
+ 3 APPPATH\Controllers\Pages.php(46): view('templates/header.html')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 11:16:00 --> Invalid file: templates/header.html
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/header.html')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('templates/header.html', [], true)
+ 3 APPPATH\Controllers\Pages.php(46): view('templates/header.html')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 11:16:19 --> Invalid file: template/header.html
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/header.html')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('template/header.html', [], true)
+ 3 APPPATH\Controllers\Pages.php(46): view('template/header.html')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 11:16:21 --> Invalid file: template/header.html
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/header.html')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('template/header.html', [], true)
+ 3 APPPATH\Controllers\Pages.php(46): view('template/header.html')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 11:16:21 --> Invalid file: template/header.html
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/header.html')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('template/header.html', [], true)
+ 3 APPPATH\Controllers\Pages.php(46): view('template/header.html')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 11:16:22 --> Invalid file: template/header.html
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/header.html')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('template/header.html', [], true)
+ 3 APPPATH\Controllers\Pages.php(46): view('template/header.html')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 11:16:22 --> Invalid file: template/header.html
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/header.html')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('template/header.html', [], true)
+ 3 APPPATH\Controllers\Pages.php(46): view('template/header.html')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 11:16:22 --> Invalid file: template/header.html
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/header.html')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('template/header.html', [], true)
+ 3 APPPATH\Controllers\Pages.php(46): view('template/header.html')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 11:16:23 --> Invalid file: template/header.html
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/header.html')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('template/header.html', [], true)
+ 3 APPPATH\Controllers\Pages.php(46): view('template/header.html')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 11:16:23 --> Invalid file: template/header.html
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/header.html')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('template/header.html', [], true)
+ 3 APPPATH\Controllers\Pages.php(46): view('template/header.html')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 11:16:24 --> Invalid file: template/header.html
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/header.html')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('template/header.html', [], true)
+ 3 APPPATH\Controllers\Pages.php(46): view('template/header.html')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-06 11:16:24 --> Invalid file: template/header.html
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/header.html')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('template/header.html', [], true)
+ 3 APPPATH\Controllers\Pages.php(46): view('template/header.html')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pages->record()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
